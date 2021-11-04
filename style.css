@@ -1,0 +1,29 @@
+.box {
+    height: 400px;
+    width: 300px;
+    display: inline-block;
+}
+
+#a {
+    background-color: red;
+}
+
+#b {
+    background-color: blue;
+}
+
+#c {
+    background-color: green;
+}
+
+#d {
+    background-color: grey;
+}
+
+#e {
+    background-color: khaki;
+}
+
+#f {
+    background-color: lightcyan;
+}
