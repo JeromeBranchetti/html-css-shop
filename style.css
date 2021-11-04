@@ -30,7 +30,7 @@
 
 span {
     position: absolute;
-    right: 0;
+    right: 0;    
     
 }
 
@@ -41,3 +41,18 @@ span.red {
 span.green {
     background-color: green;
 }
+
+span.heart {
+    color: red;
+    position: absolute;
+    bottom: 20px;
+    right: 50%;
+    font-size: 30px;
+    display: none;
+    
+}
+
+.box:hover span.heart{
+    display: block;
+}
+
