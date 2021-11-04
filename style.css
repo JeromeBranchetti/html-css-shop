@@ -8,15 +8,15 @@
 }
 
 #a,#d {
-    background-image: url(/img/pd1.jpeg);
+    background-image: url(img/pd1.jpeg);
 }
 
 #b, #e {
-    background-image: url(/img/pd2.jpeg);
+    background-image: url(img/pd2.jpeg);
 }
 
 #c, #f {
-    background-image: url(/img/pd3.jpeg);
+    background-image: url(img/pd3.jpeg);
 }
 
 .riga {
