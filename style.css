@@ -1,29 +1,29 @@
 .box {
     height: 400px;
-    width: 300px;
+    width: 320px;
     display: inline-block;
+    margin-left: 2px;
+    position: relative;
+    
 }
 
-#a {
-    background-color: red;
+#a,#d {
+    background-image: url(/img/pd1.jpeg);
 }
 
-#b {
-    background-color: blue;
+#b, #e {
+    background-image: url(/img/pd2.jpeg);
 }
 
-#c {
-    background-color: green;
+#c, #f {
+    background-image: url(/img/pd3.jpeg);
 }
 
-#d {
-    background-color: grey;
+.riga {
+    margin-bottom: 30px;
+    text-align: center;
 }
 
-#e {
-    background-color: khaki;
-}
-
-#f {
-    background-color: lightcyan;
+.tabella {
+    margin-top: 3%;
 }
