@@ -27,3 +27,17 @@
 .tabella {
     margin-top: 3%;
 }
+
+span {
+    position: absolute;
+    right: 0;
+    
+}
+
+span.red {
+    background-color: red;
+}
+
+span.green {
+    background-color: green;
+}
