@@ -1,13 +1,12 @@
 .box {
-    height: 400px;
-    width: 320px;
+    
     display: inline-block;
     margin-left: 2px;
     position: relative;
     
 }
 
-#a,#d {
+/* #a,#d {
     background-image: url(img/pd1.jpeg);
 }
 
@@ -17,7 +16,7 @@
 
 #c, #f {
     background-image: url(img/pd3.jpeg);
-}
+} */
 
 .riga {
     margin-bottom: 30px;
